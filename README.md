@@ -10,9 +10,13 @@ Este repositório contém as atividades práticas desenvolvidas durante a discip
 ## Resultados do Benchmark (Aula 01)
 Este espaço é reservado para o registro dos tempos de execução do script `benchmark_inicial.py`.
 
+
+
 > **Meu Benchmark:**
 > - **Processador:** [ryzen 7 7735HS]
-> - **Tempo:** [0.2862]s
+> - **Tempo:** 1.000.000 = 0.2778 segundos
+               10.000.000 = 2.9229 segundos
+               100.000.000 = 40.7191 segundos.
 
 ## Como executar
 1. Clone o repositório:
