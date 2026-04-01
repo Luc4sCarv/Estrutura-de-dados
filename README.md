@@ -1,7 +1,7 @@
 # Portfólio de Estruturas de Dados
 
-**Aluno:** [Seu Nome Aqui]  
-**Matrícula:** [Sua Matrícula]  
+**Aluno:** [Lucas Monteiro Lorenzetti de Carvalho]  
+**Matrícula:** [202601022987]  
 **Semestre:** 2026.1  
 **Professor:** Luís Aramis  
 
@@ -12,13 +12,6 @@ Este repositório contém as atividades práticas desenvolvidas durante a discip
 - `/aula01`: Configuração do Ambiente e Hello World.
 - `/aula03`: Recursividade.
 - ...
-
-## Resultados do Benchmark (Aula 01)
-Este espaço é reservado para o registro dos tempos de execução do script `benchmark_inicial.py`.
-
-> **Meu Benchmark:**
-> - **Processador:** [Insira seu modelo de CPU aqui]
-> - **Tempo:** [Insira o tempo aqui]s
 
 ## Como executar
 1. Clone o repositório:
